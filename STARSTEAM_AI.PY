@@ -51,8 +51,8 @@ async def main():
     new_path = "./cache/"+new_filename
     shutil.move(old_path, new_path)
 
-    # mixer.init(devicename = 'CABLE Input (VB-Audio Virtual Cable)')
-    mixer.init()
+    mixer.init(devicename = 'CABLE Input (VB-Audio Virtual Cable)')
+    # mixer.init()
     mixer.music.load('./cache/'+new_filename)
     mixer.music.play()
     while mixer.music.get_busy():

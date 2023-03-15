@@ -10,6 +10,8 @@ pip install keyboard
 pip install logging
 pip install datetime
 pip install PyAudio
+
+Install [VB-CABLE Virtual Audio Device](https://vb-audio.com/Cable/)
 ```
 ## How To USE?
 ```
