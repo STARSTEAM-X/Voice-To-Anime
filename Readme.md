@@ -1,5 +1,5 @@
 ## Install 
-``` python
+```
 pip install SpeechRecognition
 pip install playsound==1.0.0
 pip install voicevox-client
