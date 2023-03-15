@@ -14,6 +14,6 @@ pip install PyAudio
 ## How To USE?
 ```
 Insall the Library
-open Run.bat
+Open Run.bat
 Push Key F4 And Speak Thai Language
 ```
